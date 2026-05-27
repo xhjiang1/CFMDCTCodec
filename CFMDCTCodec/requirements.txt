@@ -1,0 +1,11 @@
+torch>=2.0
+torchaudio>=2.0
+numpy>=1.23
+scipy>=1.11
+librosa>=0.9
+soundfile>=0.12
+matplotlib>=3.8
+tensorboard
+einops>=0.8
+diffusers>=0.35,<0.36
+pytorch-lightning>=1.2
